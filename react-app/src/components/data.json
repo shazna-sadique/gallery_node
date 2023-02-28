@@ -1,0 +1,35 @@
+{
+    "message": "success",
+    "value": [
+        {
+            "_id": "63fd02c74ccd84486b2a696a",
+            "name": "https://picsum.photos/id/1/5000/3333",
+            "__v": 0
+        },
+        {
+            "_id": "63fd0417006459a795458558",
+            "name": "https://picsum.photos/id/12/2500/1667",
+            "__v": 0
+        },
+        {
+            "_id": "63fd041d006459a795458559",
+            "name": "https://picsum.photos/id/7/4728/3168",
+            "__v": 0
+        },
+        {
+            "_id": "63fd0423006459a79545855a",
+            "name": "https://picsum.photos/id/26/4209/2769",
+            "__v": 0
+        },
+        {
+            "_id": "63fd0428006459a79545855b",
+            "name": "https://picsum.photos/id/1/5000/3333",
+            "__v": 0
+        },
+        {
+            "_id": "63fd0434006459a79545855c",
+            "name": "https://picsum.photos/id/23/367/267",
+            "__v": 0
+        }
+    ]
+}

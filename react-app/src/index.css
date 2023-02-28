@@ -1,0 +1,50 @@
+body {
+  margin: 10px;
+  padding: 10px;
+}
+#hero{
+  height: 200px;
+  padding-top: 50px;
+}
+#txt{
+  justify-content: center;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 500px;
+}
+/* #galle{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  max-width: 650px;
+  margin: 0 auto;
+} */
+#myDiv
+{
+  height: 490px;
+  width: 650px;
+}
+
+#myDiv img {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 20px;
+  padding-left: 400px;
+  transform: scale(1.02);
+ 
+  
+}
+#fullscreen{
+  
+}
+#gallery{
+  flex-direction: row;
+  position: relative;
+  flex: content;
+  box-shadow: 3px 3px 8px 8px rgb(208, 210, 211);
+}
+
+
+
+
